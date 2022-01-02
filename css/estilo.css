@@ -1,0 +1,194 @@
+*{  margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo {
+    background: url(../img/icons/fk.png) center center no-repeat ;
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid black; */
+}
+
+.baner {
+        width:100% ;
+        height:300px ;
+        background-color: black;
+}
+
+header {
+        height:300px ;
+}
+
+.foto {
+    background: url(../img/Recurso4.png) center center no-repeat ;
+    width:180px ;
+    height:180px ;
+    /* border: black 1px solid; */
+}
+
+.programador {
+    font-family:monospace ;
+    margin-top: -.5em;
+}
+.descargar {
+    margin-left: 1em;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------PortFolio--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+.portfolio {
+    border-radius: 20px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.kyoco {
+    background: url(../img/kyoco.png) center center no-repeat ;
+}
+.anime-word {
+    background: url(../img/anime-word.png) center center no-repeat ;
+}
+.mundo-paris {
+    background: url(../img/mundo-paris.png) center center no-repeat ;
+}
+.btn-github {
+    background: url(../img/icons/GitHub3.png) left center no-repeat ;
+    padding-left: 1.5em;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------Skills--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+
+
+.bg-skills {
+    background-color: #012063;
+}
+
+.bg-nav {
+    background-color: #74B5E3;
+}
+
+ul {
+        list-style: none;
+}
+.title {
+        font-size: 3.5em;
+}
+.skills {
+    width: 120px;
+    height: 150px;
+}
+.html {
+    background: url(../img/icons/HTML-5.png) center center no-repeat ;
+    
+}
+.css {
+    background: url(../img/icons/CSS-3.png) center center no-repeat ;
+}
+
+.javascript {
+    background: url(../img/icons/Javascript.png) center center no-repeat ;
+
+}
+
+.php {
+    background: url(../img/icons/PHP-7.png) center center no-repeat ;
+}
+
+.bootstrap {
+    background: url(../img/icons/Bootstrap.png) center center no-repeat ;
+}
+.vue {
+    background: url(../img/icons/Vue.png) center center no-repeat ;
+}
+.photoshop {
+    background: url(../img/icons/PhothoShop.png) center center no-repeat ;
+}
+.illustrator {
+    background: url(../img/icons/Illustrator.png) center center no-repeat ;
+
+}
+.GitHub {
+    background: url(../img/icons/GitHub.png) center center no-repeat ;
+}
+.MySql {
+    background: url(../img/icons/mysql.png) center center no-repeat ;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------Consulta--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+.consulta {
+    border-radius: 20px;
+    padding: 3em;
+}
+.ancla {
+    padding-top: 4em;
+
+}
+.contact {
+    font-size: 2.5em;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------Footer--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+footer {
+    margin-top: 5em;
+}
+
+footer div h2 {
+    margin-left: .8em;
+}
+.icon-foot {
+    width: 50px;
+    height: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.contacto {
+    height: 50px;
+    width: 100%;
+    text-decoration: none;
+    padding-left: 5em;
+    padding-top: .5em;
+}
+.Email {
+    background: url(../img/icons/Gmail.png) left center no-repeat ;
+}
+.Telefono {
+    background: url(../img/icons/Telefono.png) left center no-repeat ;
+}
+.mapa {
+    background: url(../img/icons/mapa.png) left center no-repeat ;
+}
+.Linkedin {
+    background: url(../img/icons/linkedin.png) center center no-repeat ;
+    display: inline-block;
+    margin-left: 1em;
+}
+.GitHub-Contact {
+    background: url(../img/icons/GitHub2.png) center center no-repeat ;
+    display: inline-block;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.flecha {
+    background: url(../img/icons/Flecha.png) center center no-repeat ;
+    border: 1px white solid;
+    width: 70px;
+    height: 70px;
+}
+.flecha:hover {
+    background: url(../img/icons/Flecha2.png) center center no-repeat ;
+    background-color: white;
+}
