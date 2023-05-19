@@ -1,0 +1,150 @@
+*{  margin: 0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.hoverLinkedin:hover {
+  background-color: white; 
+  color: blue;
+}
+
+.asd {
+  background-color: aqua;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
+
+.body {
+  background-color: #eeeeee;
+  margin-top: 4em;
+}
+
+.bg-skills {
+  /* background-color: #012063; */
+  background: url("assets/img/fondo2.jpg") center ;
+}
+
+.bg-sky {
+  /* background-color: #74B5E3; */
+  background-color: #e3f2fd;
+}
+.text-sky {
+  color: #74B5E3;
+}
+
+.border-sky{
+  border-bottom: 2px solid #74B5E3;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.titulo{
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5em;
+  
+}
+.logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 1.4em;
+  color: #74B5E3;
+}
+
+.baner {
+      width:100% ; 
+      height: 300px;
+      background: url("assets/img/fondo-small.jpg") center center no-repeat ;
+      background-size: 100%;    
+}
+.aboutMe{
+  margin-top: -5em;
+}
+
+.fotoPerfil {
+  height: 100px;
+}
+
+.sobreMi {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.1em;
+}
+
+.programador {
+  font-family:monospace ;
+  margin-top: -.5em;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------PortFolio--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+.portfolio {
+  border-radius: 20px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.icons {
+  width: 40px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------PortFolio detalle--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+.icon-detalle{
+  width: 30px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------Skills--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+
+
+.skills {
+  max-width: 100px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------Footer--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------*/
+footer {
+  margin-top: 5em;
+}
+
+@media (min-width: 1000px) {
+
+  .baner {
+    width:100% ; 
+    height: 500px;
+    background: url("assets/img/fondo.jpg") center center no-repeat ;
+    background-size: 100%;
+      
+  }
+  .aboutMe{
+    margin-top: -15em;
+  }
+
+  /* 
+--------------------Portfolio--------------------
+  */
+
+  /* .gaga{
+    width: 80vw;
+    border-bottom: gray solid 2px;
+    position: absolute;
+    right: 20px;
+  } */
+}
