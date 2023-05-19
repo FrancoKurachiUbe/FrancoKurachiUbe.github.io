@@ -3,32 +3,32 @@
         {
             "link":"kyocoLink",
             "nombre":"Kyoco",
-            "logo":"../img/kyoco/kyoco-logo.png",
-            "img":"../img/kyoco/kyoco_Home.png",
+            "logo":"/src/assets/img/kyoco/kyoco-logo.png",
+            "img":"/src/assets/img/kyoco/kyoco_Home.png",
             "ArrayImg":[
                 {
-                    "name":"../img/kyoco/kyoco_Productos.png"
+                    "name":"/src/assets/img/kyoco/kyoco_Productos.png"
                 },
                 {
-                    "name":"../img/kyoco/kyoco_Contacto.png"
+                    "name":"/src/assets/img/kyoco/kyoco_Contacto.png"
                 }
             ],
             "lenguajes":[
                 {
                     "name":"JavaScript",
-                    "icon":"../img/icons/javascript.png"
+                    "icon":"/src/assets/img/icons/javascript.png"
                 },
                 {
                     "name":"Html5",
-                    "icon":"../img/icons/html-5.png"
+                    "icon":"/src/assets/img/icons/html-5.png"
                 },
                 {
                     "name":"Bootstrap",
-                    "icon":"../img/icons/bootstrap.png"
+                    "icon":"/src/assets/img/icons/bootstrap.png"
                 },
                 {
                     "name":"Css",
-                    "icon":"../img/icons/css-3.png"
+                    "icon":"/src/assets/img/icons/css-3.png"
                 }
             ],
             "text":[
@@ -41,28 +41,28 @@
         {
             "link":"F-M-Ecomerce-link",
             "nombre":"Fronted Mentori Ecomerce",
-            "logo":"../img/F-M-Ecomerce/F_M_logo.png",
-            "img":"../img/F-M-Ecomerce/active-states-basket-empty.jpg",
+            "logo":"/src/assets/img/F-M-Ecomerce/F_M_logo.png",
+            "img":"/src/assets/img/F-M-Ecomerce/active-states-basket-empty.jpg",
             "ArrayImg":[
                 {
-                    "name":"../img/F-M-Ecomerce/active-states-basket-filled.jpg"
+                    "name":"/src/assets/img/F-M-Ecomerce/active-states-basket-filled.jpg"
                 },
                 {
-                    "name":"../img/F-M-Ecomerce/active-states-lightbox.jpg"
+                    "name":"/src/assets/img/F-M-Ecomerce/active-states-lightbox.jpg"
                 }
             ],
             "lenguajes":[
                 {
                     "name":"ReactJS",
-                    "icon":"../img/icons/react.png"
+                    "icon":"/src/assets/img/icons/react.png"
                 },
                 {
                     "name":"TailwindCSS",
-                    "icon":"../img/icons/Tailwind.png"
+                    "icon":"/src/assets/img/icons/Tailwind.png"
                 },
                 {
                     "name":"html5",
-                    "icon":"../img/icons/html-5.png"
+                    "icon":"/src/assets/img/icons/html-5.png"
                 }
             ],
             "text":[
@@ -75,28 +75,28 @@
         {
             "link":"F-M-Ecomerce-link",
             "nombre":"Rick and Morty",
-            "logo":"../img/RickandMorty/RickyMorty-logo.png",
-            "img":"../img/RickandMorty/RickandMorty-1.png",
+            "logo":"/src/assets/img/RickandMorty/RickyMorty-logo.png",
+            "img":"/src/assets/img/RickandMorty/RickandMorty-1.png",
             "ArrayImg":[
                 {
-                    "name":"../img/RickandMorty/RickandMorty-2.png"
+                    "name":"/src/assets/img/RickandMorty/RickandMorty-2.png"
                 },
                 {
-                    "name":"../img/RickandMorty/RickandMorty-3.png"
+                    "name":"/src/assets/img/RickandMorty/RickandMorty-3.png"
                 }
             ],
             "lenguajes":[
                 {
                     "name":"ReactJS",
-                    "icon":"../img/icons/react.png"
+                    "icon":"/src/assets/img/icons/react.png"
                 },
                 {
                     "name":"TailwindCSS",
-                    "icon":"../img/icons/Tailwind.png"
+                    "icon":"/src/assets/img/icons/Tailwind.png"
                 },
                 {
                     "name":"html5",
-                    "icon":"../img/icons/html-5.png"
+                    "icon":"/src/assets/img/icons/html-5.png"
                 }
             ],
             "text":[
@@ -110,71 +110,71 @@
     [
         {
             "name":"Javascript",
-            "img":"../img/icons/javascript.png"
+            "img":"/src/assets/img/icons/javascript.png"
         },
         {
             "name":"Bootstrap",
-            "img":"../img/icons/bootstrap.png"
+            "img":"/src/assets/img/icons/bootstrap.png"
         },
         {
             "name":"Css-3",
-            "img":"../img/icons/css-3.png"
+            "img":"/src/assets/img/icons/css-3.png"
         },
         {
             "name":"Git",
-            "img":"../img/icons/git.png"
+            "img":"/src/assets/img/icons/git.png"
         },
         {
             "name":"Html5",
-            "img":"../img/icons/html-5.png"
+            "img":"/src/assets/img/icons/html-5.png"
         },
         {
             "name":"Illustrator",
-            "img":"../img/icons/Illustrator.png"
+            "img":"/src/assets/img/icons/illustrator.png"
         },
         {
             "name":"Material-Ui",
-            "img":"../img/icons/material-ui.png"
+            "img":"/src/assets/img/icons/material-ui.png"
         },
         {
             "name":"NodeJS",
-            "img":"../img/icons/nodejs.png"
+            "img":"/src/assets/img/icons/nodejs.png"
         },
         {
             "name":"PhothoShop",
-            "img":"../img/icons/PhothoShop.png"
+            "img":"/src/assets/img/icons/PhothoShop.png"
         },
         {
             "name":"Php",
-            "img":"../img/icons/php.png"
+            "img":"/src/assets/img/icons/php.png"
         },
         {
             "name":"ReactJS",
-            "img":"../img/icons/react.png"
+            "img":"/assets/react.png"
         },
         {
             "name":"TailwindCSS",
-            "img":"../img/icons/Tailwind.png"
+            "img":"/assets/Tailwind.png"
         },
         {
             "name":"Viutify",
-            "img":"../img/icons/viutify.png"
+            "img":"/src/assets/img/icons/viutify.png"
         },
         {
             "name":"VueJS",
-            "img":"../img/icons/Vue.png"
+            "img":"/src/assets/img/icons/Vue.png"
         },
         {
             "name":"MongoDB",
-            "img":"../img/icons/mongodb.png"
+            "img":"/src/assets/img/icons/mongodb.png"
         },
         {
             "name":"MySQL",
-            "img":"../img/icons/mysql.png"
+            "img":"/src/assets/img/icons/mysql.png"
         },
         {
             "name":"vite",
-            "img":"../img/icons/Vite.png"
+            "img":"/src/assets/img/icons/vite.png"
         }
     ]
 ]
